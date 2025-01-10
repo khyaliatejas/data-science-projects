@@ -1,1 +1,2 @@
-# data-science-projects
+# Data Science Projects
+ contains data science related projects
